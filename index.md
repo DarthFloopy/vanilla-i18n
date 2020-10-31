@@ -24,7 +24,7 @@
 
 > **A super lightweight JS script to provide internationalization to your website using translations from JSON files.**
 
-### 🏠 [Homepage](https://github.com/thealphadollar/vanilla-i18n)
+### 🏠 [Homepage](https://thealphadollar.github.io/vanilla-i18n)
 
 ## Motivation
 
